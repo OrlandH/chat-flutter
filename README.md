@@ -25,11 +25,13 @@
 > [!Note]
 >
 > Se han usado 3 servicios de firebase.
+> 
 ![image](https://github.com/user-attachments/assets/58d287ad-909a-4cd9-8d53-5cf02db27842)
 
 > [!Note]
 >
 > En Authentication almacenamos los usuarios registrados en la aplicación
+> 
 ![image](https://github.com/user-attachments/assets/22b0f690-0817-4bfc-8a2c-5a94ecea7e9a)
 
 > [!Note]
