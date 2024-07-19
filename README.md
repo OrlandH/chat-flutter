@@ -15,11 +15,13 @@
 > [!Note]
 >
 > Una vez ingresé al chat podrá ver los mensajes que se han escrito
+> 
 ![image](https://github.com/user-attachments/assets/8b15c8b5-3bfc-432b-8820-139545e18235)
 
 > [!Note]
 >
 > También cuenta con un botón para cerrar la sesión y para enviar la ubicación actual
+> 
 ![image](https://github.com/user-attachments/assets/4ddfef01-1ae4-4441-95ea-ab0a014ff2fb)
 
 > [!Note]
